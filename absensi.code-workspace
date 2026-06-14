@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../ristack/absensi"
+		},
+		{
+			"name": "absensi-esp32",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
